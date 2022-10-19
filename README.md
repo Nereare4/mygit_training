@@ -1,4 +1,5 @@
 # Learn `git` concepts, not commands
+# Aprendiendo conceptos de git
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
@@ -72,6 +73,7 @@ What `git clone` also does, is create a new folder wherever you called it. There
 ![Cloning the remote repo](img/clone.png)
 
 ## Adding new things
+## Holiwiss
 
 Someone already put a file named `Alice.txt` into the _Remote Repository_. It's kind of lonely there, so let's create a new file and call it `Bob.txt`. 
 
