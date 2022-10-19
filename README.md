@@ -1,6 +1,7 @@
 # Learn `git` concepts, not commands
 # Aprendiendo conceptos de git
-**Hola!! Estoy en la rama1
+
+# Hola!! Estoy en la rama2
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
 So, you want to use git, right? 
